@@ -16,5 +16,5 @@
 
 [![Isadora's github stats](https://github-readme-stats.vercel.app/api?username=isadoramcl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- !--[![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=isadoramcl)]()--
+ <!--[![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=isadoramcl)]()-->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadoramcl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
